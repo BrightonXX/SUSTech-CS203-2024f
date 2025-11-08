@@ -8,3 +8,5 @@ A+(97/100) in overall grade. (In 2024f, the grading criteria is: 10% attendance,
 Notice that PLAGIARISM WILL BE PUNISHED SEVERELY in SUSTech Computer Science and Engineering Department.
 
 Updated on 2025/11/8: I add the description of each lab so it will be easier to find the exact question.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS203-2024f&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS203-2024f)
