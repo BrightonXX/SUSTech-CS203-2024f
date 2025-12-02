@@ -30,9 +30,21 @@ I achieved an **A+ (97/100)** in this course. The grading breakdown was as follo
 
 ## 📂 Repository Contents
 
-*   **Labs:** All lab codes are implemented in **Java**.
+### 🧪 Labs (Source Code)
+*   **[LAB0](./LAB0) - [LAB9](./LAB9)**: Standard weekly labs covering basic data structures.
+*   **[bonusLAB](./bonusLAB)**: Additional bonus assignments.
     *   *Update (2025/11/8):* Added descriptions for each lab to make searching specific questions easier.
-*   **Exams:** Includes my solutions/papers for the two quizzes and the midterm.
+    *   *Update (2025/12/3):* Polished the repo to make it looks better.
+
+### 📝 Exams & Solutions
+*   **Quizzes**: [Quiz 1](./quiz1.pdf) | [Quiz 2](./quiz2.pdf)
+*   **Midterm**: [Midterm Paper (24 Fall)](./midterm-24f.pdf)
+
+### 🧠 Review Materials (Cheating Sheets)
+> Essential for exam preparation.
+*   **Midterm:** [Cheating Paper - Midterm.pdf](./Cheating%20Paper%20-%20Midterm.pdf)
+*   **Final:** [Cheating Paper - Final.pdf](./Cheating%20Paper%20-%20Final.pdf)
+*   **Tips:** [Tips about Final.md](./Tips%20about%20Final.md)
 
 ---
 
