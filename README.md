@@ -11,7 +11,8 @@
   <strong>Course repository for CS203 at Southern University of Science and Technology.</strong><br>
   Contains Lab codes (Java), Quizzes, and Midterm paper.
 </p>
-
+    *   *Update (2025/11/8):* Added descriptions for each lab to make searching specific questions easier.
+    *   *Update (2025/12/3):* Polished the repo to make it looks better.
 </div>
 
 ---
@@ -31,14 +32,13 @@ I achieved an **A+ (97/100)** in this course. The grading breakdown was as follo
 ## 📂 Repository Contents
 
 ### 🧪 Labs (Source Code)
-*   **[LAB0](./LAB0) - [LAB9](./LAB9)**: Standard weekly labs covering basic data structures.
-*   **[bonusLAB](./bonusLAB)**: Additional bonus assignments.
-    *   *Update (2025/11/8):* Added descriptions for each lab to make searching specific questions easier.
-    *   *Update (2025/12/3):* Polished the repo to make it looks better.
+*   **[LAB0](./LAB0) - [LAB9](./LAB9)**: My solutions to each lab, marked with each problem number.
+*   **[bonusLAB](./bonusLAB)**: Additional bonus assignments, each worth 10 points.
+
 
 ### 📝 Exams & Solutions
-*   **Quizzes**: [Quiz 1](./quiz1.pdf) | [Quiz 2](./quiz2.pdf)
-*   **Midterm**: [Midterm Paper (24 Fall)](./midterm-24f.pdf)
+*   **Quizzes**: [Quiz 1 (89/100)](./quiz1.pdf) | [Quiz 2 (120/120)](./quiz2.pdf)
+*   **Midterm**: [Midterm Paper (24 Fall) (94/100)](./midterm-24f.pdf)
 
 ### 🧠 Review Materials (Cheating Sheets)
 > Essential for exam preparation.
