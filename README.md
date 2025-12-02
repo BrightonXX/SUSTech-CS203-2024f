@@ -1,12 +1,44 @@
-# SUSTech-CS203-2024f
+<div align="center">
 
-A storehouse for SUSTech CS203 (Data Structures and Algorithm Analysis) 2024 Fall. 
-Lab codes are all in Java. Along with my two quizzes & midterm paper.
+# SUSTech CS203: Data Structures and Algorithm Analysis
 
-A+(97/100) in overall grade. (In 2024f, the grading criteria is: 10% attendance, 20% lab, 16% quizzes, 20% midterm and 34% final)
-
-Notice that PLAGIARISM WILL BE PUNISHED SEVERELY in SUSTech Computer Science and Engineering Department.
-
-Updated on 2025/11/8: I add the description of each lab so it will be easier to find the exact question.
-
+![Semester](https://img.shields.io/badge/Semester-2024_Fall-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
+![Grade](https://img.shields.io/badge/Overall_Grade-A%2B_(97%2F100)-success?style=flat-square)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS203-2024f&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS203-2024f)
+
+<p align="center">
+  <strong>Course repository for CS203 at Southern University of Science and Technology.</strong><br>
+  Contains Lab codes (Java), Quizzes, and Midterm paper.
+</p>
+
+</div>
+
+---
+
+## 📊 Grading Criteria (2024 Fall)
+
+I achieved an **A+ (97/100)** in this course. The grading breakdown was as follows:
+
+| Component | Percentage | Description |
+| :--- | :---: | :--- |
+| **Attendance** | 10% | Class participation |
+| **Lab** | 20% | Weekly coding assignments |
+| **Quizzes** | 16% | 2 Quizzes during the semester |
+| **Midterm** | 20% | Written examination |
+| **Final** | 34% | Final examination |
+
+## 📂 Repository Contents
+
+*   **Labs:** All lab codes are implemented in **Java**.
+    *   *Update (2025/11/8):* Added descriptions for each lab to make searching specific questions easier.
+*   **Exams:** Includes my solutions/papers for the two quizzes and the midterm.
+
+---
+
+> [!CAUTION]
+> **Honor Code Warning**
+>
+> Please note that **PLAGIARISM WILL BE PUNISHED SEVERELY** in the SUSTech Computer Science and Engineering Department.
+>
+> This repository is for **learning and exchange purposes only**. Do not copy the code directly for your assignments.
